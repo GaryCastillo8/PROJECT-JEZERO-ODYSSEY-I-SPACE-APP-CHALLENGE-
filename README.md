@@ -6,4 +6,6 @@ This is the solution for the challenge: Interplanetary Survival Guide: Martian M
 4. To see the manual or extra documentation open the pdf file "PROJECT JEZERO ODYSSEY I.pdf"
 5. To se the 3D model, topography, radiation and the Martian Station open the .txt file and copy the Google Drive link and download the folder, then open "Start Project Jezero" executable file.
 
+<img width="1885" height="921" alt="image" src="https://github.com/user-attachments/assets/77f8db0d-a0dd-411d-bfa3-04533ddb5707" />
+
 
